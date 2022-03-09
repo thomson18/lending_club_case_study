@@ -11,28 +11,16 @@ The company wants to understand the driving factors (or driver variables) behind
 
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-
-
-
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Lending Club should reduce high interest loans for 60 months tenure, as they are prone to loan default
+- High loan amount & interest rate for lower income group
+- High installment and longer repayment term
 
-
-
-
-
-## Acknowledgements
 
 
 
@@ -40,7 +28,4 @@ The company wants to understand the driving factors (or driver variables) behind
 Created by [@thomson18] - feel free to contact me!
 
 
-
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
